@@ -1,6 +1,6 @@
 ## dell-bios-fan-control
 
-#### A user space utility to set control of fans by bios on Dell 9560 Laptops.
+#### A user space utility to set control of fans by bios on Dell XPS 13 9380 Laptops.
 
 Allows to control the fans by bios or i8kctl utils.
 
@@ -36,7 +36,9 @@ i8kctl fan 1 1
 * This tool allows to enable or disable bios control of fans to
   use i8kmon instead
 
+* Sometimes disables brightness control and power button to suspend 
 
 ### Credits
 
 * All credits belong to: https://github.com/clopez/dellfan
+* https://www.dell.com/community/Linux-Developer-Systems/XPS-13-9350-fan-control/m-p/5036618/highlight/true#M6457

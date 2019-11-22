@@ -33,8 +33,8 @@
  *
  */
 
-#define DISABLE_BIOS_METHOD2 0x34a3
-#define ENABLE_BIOS_METHOD2  0x35a3
+#define DISABLE_BIOS_METHOD2 0x30a3
+#define ENABLE_BIOS_METHOD2  0x31a3
 
 int init_ioperm(void)
 {

@@ -42,3 +42,5 @@ i8kctl fan 1 1
 
 * All credits belong to: https://github.com/clopez/dellfan
 * https://www.dell.com/community/Linux-Developer-Systems/XPS-13-9350-fan-control/m-p/5036618/highlight/true#M6457
+* https://github.com/fmalhe/xps13ubuntu
+
